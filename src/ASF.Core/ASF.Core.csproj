@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <DocumentationFile></DocumentationFile>
+    <DocumentationFile>D:\Work\ASF\ASF\src\ASF.Core\ASF.Core.xml</DocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>
